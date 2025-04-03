@@ -1,5 +1,3 @@
-addpath ./daviolinplot/
-
 if ~exist("cornn_bbob_ela.csv","file")
     if exist('data','var')
         clear data;
